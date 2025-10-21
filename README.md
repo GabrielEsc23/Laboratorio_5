@@ -63,7 +63,7 @@ Conocer la sintaxis de *JavaScript* y aplicar sus fundamentos en la creación de
 
 | Grupo | Integrantes | Link del Repositorio | Link del Despliegue |
 |--------|--------------|----------------------|----------------------|
-| 3 | Nicolás Chiguano, Adrian Ramos, Edison Escobar | [Repositorio aquí](URL) | [Despliegue aquí](URL) |
+| 3 | Nicolás Chiguano, Adrian Ramos, Edison Escobar | [https://github.com/GabrielEsc23/Laboratorio_5](URL) | [https://admirable-fenglisu-330269.netlify.app/](URL) |
 
 ---
 
